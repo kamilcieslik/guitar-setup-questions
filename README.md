@@ -1,5 +1,3 @@
-# guitar-setup-questionsSiema, chcę wejść w gitarę elektryczną i na ten moment plan mam taki.
-
 ChatGPT polecił mi:
 
 * **Yamaha Pacifica 112V**
